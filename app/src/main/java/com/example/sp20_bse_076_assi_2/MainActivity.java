@@ -22,7 +22,7 @@ private EditText et;
 
         one= findViewById(R.id.one);
         two= findViewById(R.id.two);
-        three= findViewById(R.id.three);
+        three= findViewById(R.id.three)  ;
 
         four= findViewById(R.id.four);
         five= findViewById(R.id.five);
