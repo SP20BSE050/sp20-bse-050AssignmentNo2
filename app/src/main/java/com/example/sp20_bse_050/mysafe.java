@@ -1,9 +1,11 @@
-package com.example.sp20_bse_076_assi_2;
+package com.example.sp20_bse_050;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.Toast;
+
+import com.example.sp20_bse_050.R;
 
 public class mysafe extends AppCompatActivity {
 

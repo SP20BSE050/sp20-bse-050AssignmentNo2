@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sp20_bse_076_assi_2">
+    package="com.example.sp20_bse_050">
 
     <application
         android:allowBackup="true"
@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SP20_BSE_076_Assi_2">
         <activity
-            android:name=".mysafe"
+            android:name="com.example.sp20_bse_050.mysafe"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.sp20_bse_050.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

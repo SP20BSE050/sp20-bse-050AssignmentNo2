@@ -1,4 +1,4 @@
-package com.example.sp20_bse_076_assi_2;
+package com.example.sp20_bse_050;
 
 import org.junit.Test;
 
